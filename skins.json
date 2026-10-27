@@ -1,0 +1,711 @@
+{
+  "baseUrl": "https://raw.githubusercontent.com/giannis211/assets/main/",
+  "hulls": {
+    "dictator": {
+      "skins": {
+        "old": {
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m0/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m0/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m0/preview.png"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m1/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m1/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m1/preview.png"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m2/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m2/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m2/preview.png"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m3/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m3/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/dictator/old/m3/preview.png"
+            }
+          }
+        }
+      }
+    },
+    "hornet": {
+      "skins": {
+        "XT": {
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/XT/m0/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/XT/m0/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/XT/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/XT/m0/preview.png"
+            }
+          }
+        },
+        "old": {
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m0/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m0/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m0/preview.png"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m1/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m1/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m1/preview.png"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m2/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m2/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m2/preview.png"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m3/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m3/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old/m3/preview.png"
+            }
+          }
+        },
+        "old_XT": {
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old_XT/m0/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old_XT/m0/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old_XT/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hornet/old_XT/m0/preview.png"
+            }
+          }
+        }
+      }
+    },
+    "hunter": {
+      "skins": {
+        "old": {
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m0/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m0/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m0/preview.png"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m1/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m1/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m1/preview.png"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m2/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m2/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m2/preview.png"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m3/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m3/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/hunter/old/m3/preview.png"
+            }
+          }
+        }
+      }
+    },
+    "mamoth": {
+      "skins": {
+        "old": {
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m0/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m0/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m0/preview.png"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m1/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m1/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m1/preview.png"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m2/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m2/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m2/preview.png"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m3/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m3/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/mamoth/old/m3/preview.png"
+            }
+          }
+        }
+      }
+    },
+    "titan": {
+      "skins": {
+        "old": {
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m0/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m0/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m0/preview.png"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m1/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m1/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m1/preview.png"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m2/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m2/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m2/preview.png"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m3/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m3/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/titan/old/m3/preview.png"
+            }
+          }
+        }
+      }
+    },
+    "viking": {
+      "skins": {
+        "old": {
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m0/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m0/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m0/preview.png"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m1/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m1/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m1/preview.png"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m2/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m2/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m2/preview.png"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m3/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m3/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/viking/old/m3/preview.png"
+            }
+          }
+        }
+      }
+    },
+    "wasp": {
+      "skins": {
+        "old": {
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m0/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m0/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m0/preview.png"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m1/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m1/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m1/preview.png"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m2/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m2/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m2/preview.png"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m3/details.png",
+              "hull": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m3/hull.3ds",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Hulls/wasp/old/m3/preview.png"
+            }
+          }
+        }
+      }
+    }
+  },
+  "turrets": {
+    "firebird": {
+      "skins": {
+        "old": {
+          "shared": {
+            "flamethrower": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/flamethrower.mp3"
+          },
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m0/details.png",
+              "fireball": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m0/fireball.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m0/preview.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m0/turret.3ds"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m1/details.png",
+              "fireball": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m1/fireball.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m1/preview.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m1/turret.3ds"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m2/details.png",
+              "fireball": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m2/fireball.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m2/preview.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m2/turret.3ds"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m3/details.png",
+              "details1": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m3/details1.png",
+              "fireball": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m3/fireball.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m3/preview.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m3/turret.3ds",
+              "turret1": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/firebird/old/m3/turret1.3ds"
+            }
+          }
+        }
+      }
+    },
+    "frezee": {
+      "skins": {
+        "old": {
+          "shared": {
+            "freeze": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/freeze.mp3"
+          },
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m0/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m0/preview.png",
+              "snow_breeze": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m0/snow_breeze.png",
+              "snow_flake": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m0/snow_flake.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m0/turret.3ds"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m1/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m1/preview.png",
+              "snow_breeze": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m1/snow_breeze.png",
+              "snow_flake": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m1/snow_flake.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m1/turret.3ds"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m2/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m2/preview.png",
+              "snow_breeze": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m2/snow_breeze.png",
+              "snow_flake": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m2/snow_flake.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m2/turret.3ds"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m3/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m3/preview.png",
+              "snow_breeze": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m3/snow_breeze.png",
+              "snow_flake": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m3/snow_flake.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/frezee/old/m3/turret.3ds"
+            }
+          }
+        }
+      }
+    },
+    "isida": {
+      "skins": {
+        "old": {
+          "shared": {
+            "damage": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/damage.mp3",
+            "healing": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/healing.mp3",
+            "idle": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/idle.mp3"
+          },
+          "modifications": {
+            "m0": {
+              "damage_end": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/damage_end.png",
+              "damage_shaft": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/damage_shaft.png",
+              "damage_start": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/damage_start.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/details.png",
+              "heal_end": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/heal_end.png",
+              "heal_shaft": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/heal_shaft.png",
+              "heal_start": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/heal_start.png",
+              "idle_spark": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/idle_spark.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/preview.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m0/turret.3ds"
+            },
+            "m1": {
+              "damage_end": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/damage_end.png",
+              "damage_shaft": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/damage_shaft.png",
+              "damage_start": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/damage_start.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/details.png",
+              "heal_end": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/heal_end.png",
+              "heal_shaft": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/heal_shaft.png",
+              "heal_start": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/heal_start.png",
+              "idle_spark": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/idle_spark.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/preview.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m1/turret.3ds"
+            },
+            "m2": {
+              "damage_end": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/damage_end.png",
+              "damage_shaft": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/damage_shaft.png",
+              "damage_start": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/damage_start.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/details.png",
+              "heal_end": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/heal_end.png",
+              "heal_shaft": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/heal_shaft.png",
+              "heal_start": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/heal_start.png",
+              "idle_spark": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/idle_spark.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/preview.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m2/turret.3ds"
+            },
+            "m3": {
+              "damage_end": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/damage_end.png",
+              "damage_shaft": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/damage_shaft.png",
+              "damage_start": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/damage_start.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/details.png",
+              "heal_end": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/heal_end.png",
+              "heal_shaft": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/heal_shaft.png",
+              "heal_start": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/heal_start.png",
+              "idle_spark": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/idle_spark.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/preview.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/isida/old/m3/turret.3ds"
+            }
+          }
+        }
+      }
+    },
+    "railgun": {
+      "skins": {
+        "old": {
+          "shared": {
+            "railgun": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/railgun.mp3"
+          },
+          "modifications": {
+            "m0": {
+              "charge_part1": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m0/charge_part1.png",
+              "charge_part2": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m0/charge_part2.png",
+              "charge_part3": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m0/charge_part3.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m0/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m0/preview.png",
+              "railgun": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m0/railgun.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m0/turret.3ds"
+            },
+            "m1": {
+              "charge_part1": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m1/charge_part1.png",
+              "charge_part2": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m1/charge_part2.png",
+              "charge_part3": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m1/charge_part3.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m1/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m1/preview.png",
+              "railgun": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m1/railgun.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m1/turret.3ds"
+            },
+            "m2": {
+              "charge_part1": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m2/charge_part1.png",
+              "charge_part2": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m2/charge_part2.png",
+              "charge_part3": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m2/charge_part3.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m2/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m2/preview.png",
+              "railgun": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m2/railgun.png",
+              "railgun1": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m2/railgun1.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m2/turret.3ds"
+            },
+            "m3": {
+              "charge_part1": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m3/charge_part1.png",
+              "charge_part2": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m3/charge_part2.png",
+              "charge_part3": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m3/charge_part3.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m3/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m3/preview.png",
+              "railgun": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m3/railgun.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/railgun/old/m3/turret.3ds"
+            }
+          }
+        }
+      }
+    },
+    "ricochet": {
+      "skins": {
+        "old": {
+          "shared": {
+            "ricochet_explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/ricochet_explosion.mp3",
+            "ricochet_ricochet": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/ricochet_ricochet.mp3",
+            "ricochet_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/ricochet_shot.mp3"
+          },
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m0/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m0/preview.png",
+              "ricochet_explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m0/ricochet_explosion.png",
+              "ricochet_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m0/ricochet_shot.png",
+              "ricochet_shot_flash": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m0/ricochet_shot_flash.png",
+              "ricochet_shot_trail": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m0/ricochet_shot_trail.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m0/turret.3ds"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m1/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m1/preview.png",
+              "ricochet_explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m1/ricochet_explosion.png",
+              "ricochet_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m1/ricochet_shot.png",
+              "ricochet_shot_flash": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m1/ricochet_shot_flash.png",
+              "ricochet_shot_trail": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m1/ricochet_shot_trail.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m1/turret.3ds"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m2/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m2/preview.png",
+              "ricochet_explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m2/ricochet_explosion.png",
+              "ricochet_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m2/ricochet_shot.png",
+              "ricochet_shot_flash": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m2/ricochet_shot_flash.png",
+              "ricochet_shot_trail": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m2/ricochet_shot_trail.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m2/turret.3ds"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m3/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m3/preview.png",
+              "ricochet_explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m3/ricochet_explosion.png",
+              "ricochet_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m3/ricochet_shot.png",
+              "ricochet_shot_flash": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m3/ricochet_shot_flash.png",
+              "ricochet_shot_trail": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m3/ricochet_shot_trail.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/ricochet/old/m3/turret.3ds"
+            }
+          }
+        }
+      }
+    },
+    "shaft": {
+      "skins": {
+        "old": {
+          "shared": {
+            "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/shot.wav",
+            "targetingSound": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/targetingSound.wav",
+            "zoomMode": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/zoomMode.wav"
+          },
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m0/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m0/preview.png",
+              "shaft_explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m0/shaft_explosion.png",
+              "shaft_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m0/shaft_shot.png",
+              "shaft_trail": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m0/shaft_trail.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m0/turret.3ds"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m1/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m1/preview.png",
+              "shaft_explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m1/shaft_explosion.png",
+              "shaft_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m1/shaft_shot.png",
+              "shaft_trail": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m1/shaft_trail.png",
+              "smoky_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m1/smoky_shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m1/turret.3ds"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m2/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m2/preview.png",
+              "shaft_explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m2/shaft_explosion.png",
+              "shaft_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m2/shaft_shot.png",
+              "shaft_trail": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m2/shaft_trail.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m2/turret.3ds"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m3/details.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m3/preview.png",
+              "shaft_explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m3/shaft_explosion.png",
+              "shaft_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m3/shaft_shot.png",
+              "shaft_trail": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m3/shaft_trail.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/shaft/old/m3/turret.3ds"
+            }
+          }
+        }
+      }
+    },
+    "smoky": {
+      "skins": {
+        "XT": {
+          "shared": {
+            "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/XT/details.png",
+            "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/XT/lightmap.jpg",
+            "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/XT/preview.png",
+            "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/XT/turret.3ds"
+          }
+        },
+        "old": {
+          "shared": {
+            "critical_hit": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/critical_hit.png",
+            "smoky_exp": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/smoky_exp.mp3",
+            "smoky_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/smoky_shot.mp3"
+          },
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m0/details.png",
+              "fire": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m0/fire.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m0/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m0/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m0/turret.3ds"
+            },
+            "m1": {
+              "details.jpg": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m1/details.jpg",
+              "details.png": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m1/details.png",
+              "fire": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m1/fire.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m1/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m1/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m1/turret.3ds"
+            },
+            "m2": {
+              "details.jpg": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m2/details.jpg",
+              "details.png": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m2/details.png",
+              "fire": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m2/fire.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m2/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m2/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m2/turret.3ds"
+            },
+            "m3": {
+              "details.jpg": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m3/details.jpg",
+              "details.png": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m3/details.png",
+              "fire": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m3/fire.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m3/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m3/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old/m3/turret.3ds"
+            }
+          }
+        },
+        "old_XT": {
+          "shared": {
+            "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old_XT/details.png",
+            "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old_XT/lightmap.jpg",
+            "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old_XT/preview.png",
+            "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/smoky/old_XT/turret.3ds"
+          }
+        }
+      }
+    },
+    "thunder": {
+      "skins": {
+        "old": {
+          "shared": {
+            "thunder_fire": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/thunder_fire.mp3",
+            "thunder_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/thunder_shot.mp3"
+          },
+          "modifications": {
+            "m0": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m0/details.png",
+              "fire": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m0/fire.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m0/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m0/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m0/turret.3ds"
+            },
+            "m1": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m1/details.png",
+              "fire": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m1/fire.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m1/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m1/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m1/turret.3ds"
+            },
+            "m2": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m2/details.png",
+              "fire": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m2/fire.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m2/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m2/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m2/turret.3ds"
+            },
+            "m3": {
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m3/details.png",
+              "fire": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m3/fire.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m3/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m3/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/thunder/old/m3/turret.3ds"
+            }
+          }
+        }
+      }
+    },
+    "twins": {
+      "skins": {
+        "old": {
+          "shared": {
+            "plazma_shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/plazma_shot.mp3"
+          },
+          "modifications": {
+            "m0": {
+              "charge": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m0/charge.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m0/details.png",
+              "explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m0/explosion.png",
+              "fade": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m0/fade.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m0/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m0/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m0/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m0/turret.3ds"
+            },
+            "m1": {
+              "charge": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m1/charge.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m1/details.png",
+              "explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m1/explosion.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m1/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m1/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m1/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m1/turret.3ds"
+            },
+            "m2": {
+              "charge": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m2/charge.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m2/details.png",
+              "explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m2/explosion.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m2/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m2/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m2/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m2/turret.3ds"
+            },
+            "m3": {
+              "charge": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m3/charge.png",
+              "details": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m3/details.png",
+              "explosion": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m3/explosion.png",
+              "lightmap": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m3/lightmap.jpg",
+              "preview": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m3/preview.png",
+              "shot": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m3/shot.png",
+              "turret": "https://raw.githubusercontent.com/giannis211/assets/main/Turrets/twins/old/m3/turret.3ds"
+            }
+          }
+        }
+      }
+    }
+  }
+}
